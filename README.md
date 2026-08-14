@@ -63,6 +63,7 @@ OUTPUT
 
 
 (ii) Serial Port to Transfer a Message
+<img width="1399" height="859" alt="Screenshot__401__MICHAEL" src="https://github.com/user-attachments/assets/d9a17a69-92ee-4fd0-807c-4a08a0ded412" />
 
 
 
